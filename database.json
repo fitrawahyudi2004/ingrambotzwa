@@ -1,7 +1,7 @@
 {
   "users": {
     "6281262166032@s.whatsapp.net": {
-      "exp": 1439,
+      "exp": 1506,
       "limit": 20,
       "lastclaim": 0,
       "registered": true,
@@ -673,7 +673,7 @@
       "catexp": 0
     },
     "62895398905959@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 32,
       "limit": 20,
       "lastclaim": 0,
       "registered": false,
@@ -980,10 +980,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 17,
-      "success": 16,
-      "last": 1664272540368,
-      "lastSuccess": 1664272540368
+      "total": 19,
+      "success": 18,
+      "last": 1664275786924,
+      "lastSuccess": 1664275786924
     },
     "xp-register.js": {
       "total": 9,
@@ -1176,6 +1176,18 @@
       "success": 2,
       "last": 1664272580953,
       "lastSuccess": 1664272580953
+    },
+    "menu-xfar.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1664275373884,
+      "lastSuccess": 0
+    },
+    "nulis-nulis.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1664275409340,
+      "lastSuccess": 1664275409340
     }
   },
   "msgs": {},

@@ -12,14 +12,14 @@ const message = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: '🌹YT OWNER',
-                        url: 'https://s.id/-1a7RO',
+                        displayText: '🌹IG OWNER',
+                        url: 'https://instagram.com/fitrawahyudi2004',
                     }
                 },
                 {
                     urlButton: {
                         displayText: '📞 Author',
-                        url: 'https://wa.me/6288215689772',
+                        url: 'https://wa.me/6281262166032',
                     }
                 },
                 {

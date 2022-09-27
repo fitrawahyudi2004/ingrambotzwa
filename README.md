@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">INGRAMBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/fitrawahyudi2004"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/fitrawahyudi2004"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=INGRAM+BOT+Multi+Device;Base+ori+by+Xinz Bot;Recode+By+INGRAM;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
@@ -238,6 +238,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Recode By 💌```
-[![Fangz BOT](https://i.postimg.cc/3r2ZvZh4/atas.jpg?size=100)](https://github.com/fitrawahyudi2004)
+[![INGRAM BOT](https://i.postimg.cc/3r2ZvZh4/atas.jpg?size=100)](https://github.com/fitrawahyudi2004)
 
 
