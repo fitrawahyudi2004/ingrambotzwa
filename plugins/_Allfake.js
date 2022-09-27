@@ -143,8 +143,8 @@ export async function all(m) {
 			contactMessage: {
 				displayName: global.wm,
 				vcard: `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg'),
-				thumbnail: fs.readFileSync('./thumbnail.jpg'),
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg'),
+				thumbnail: fs.readFileSync('./thumbnail.jpeg'),
 				sendEphemeral: true
 			}
 		}
