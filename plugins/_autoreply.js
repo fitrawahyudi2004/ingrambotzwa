@@ -75,7 +75,7 @@ handler.all = async function (m) {
         // const ojam = Math.floor(Kurang % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         // const onet = Math.floor(Kurang % (1000 * 60 * 60) / (1000 * 60))
         // const detek = Math.floor(Kurang % (1000 * 60) / 1000)
-         await this.setBio(`
+        await this.setBio(`
 ⏲️ Runtime: ${uptime} | 🛰 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Only Group' : 'Public'} | 💌 Made F.W.D`).catch(_ => _)
         setting.status = new Date() * 1
     }
