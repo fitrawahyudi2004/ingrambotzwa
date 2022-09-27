@@ -160,7 +160,7 @@ export async function all(m) {
 				h: 'Hmm',
 				seconds: global.fsizedoc,
 				caption: '👋 Hay Kak :> ' + name,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -173,7 +173,7 @@ export async function all(m) {
 			extendedTextMessage: {
 				text: '👋 Hay Kak :> ' + name,
 				title: global.bottime,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -186,7 +186,7 @@ export async function all(m) {
 			liveLocationMessage: {
 				caption: '👋 Hay Kak :> ' + name,
 				h: global.bottime,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -199,7 +199,7 @@ export async function all(m) {
 			liveLocationMessage: {
 				title: '👋 Hay Kak :> ' + name,
 				h: bottime,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -213,7 +213,7 @@ export async function all(m) {
 				product: {
 					productImage: {
 						mimetype: 'image/jpeg',
-						jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+						jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 					},
 					title: '👋 Hay Kak :> ' + name,
 					description: global.bottime,
@@ -234,7 +234,7 @@ export async function all(m) {
 		message: {
 			documentMessage: {
 				title: global.wm,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -249,7 +249,7 @@ export async function all(m) {
 				inviteCode: null,
 				groupName: global.wm,
 				caption: '👋 Hay Kak :> ' + name,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -265,7 +265,7 @@ export async function all(m) {
 				seconds: global.fsizedoc,
 				gifPlayback: true,
 				caption: global.bottime,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -281,7 +281,7 @@ export async function all(m) {
 				fileLength: global.fsizedoc,
 				height: 306,
 				width: 366,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg')
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg')
 			}
 		}
 	};
@@ -297,7 +297,7 @@ export async function all(m) {
 				fileLength: global.fsizedoc,
 				height: 306,
 				width: 366,
-				jpegThumbnail: fs.readFileSync('./thumbnail.jpg'),
+				jpegThumbnail: fs.readFileSync('./thumbnail.jpeg'),
 				viewOnce: true
 			}
 		}
