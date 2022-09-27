@@ -80,8 +80,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-$ cd FangzBOT-MD-master
+$ git clone https://github.com/fitrawahyudi2004/ingrambotzwa
+$ cd ingramzbotwa-MD-master
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
