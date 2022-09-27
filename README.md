@@ -1,73 +1,61 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.postimg.cc/3r2ZvZh4/atas.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">FangzBOT - MD</h1>
+<h1 align="center">INGRAMBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/Fangzbotz2007"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/fitrawahyudi2004"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="FangzBOT" src="https://img.shields.io/badge/FANGZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="INGRAM BOT" src="https://img.shields.io/badge/INGRAM BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-F.W.D-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDnetwork/members"><img title="Forks" src="https://img.shields.io/github/forks/Fangzbotz2007/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDlwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fangzbotz2007/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDstargazers"><img title="Stars" src="https://img.shields.io/github/stars/Fangzbotz2007/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDgraphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Fangzbotz2007/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDissues"><img title="Issues" src="https://img.shields.io/github/issues/Fangzbotz2007/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDissues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fangzbotz2007/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDpulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fangzbotz2007/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDpulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fangzbotz2007/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
-
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288215689772">
+  <a href="https://wa.me/6281262166032">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fangzjb">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=">
+  <a href="https://instagram.com/fitra_wahyudi_">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:darmapryanda1@gmail.com">
+  <a href="mailto:fitrawahyudi739@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6288215689772"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895394988123) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
+## ```Whatsapp``` <a href="https://wa.me/6281262166032"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281377468079) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281262166032) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/B7JtdZvJLYr9s850rt1rRm) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Fangzbotz2007) |
-| **No Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Simple** |[✔️](https://github.com/Fangzbotz2007) |
-| **Button template** |[✔️](https://github.com/Fangzbotz2007) |
-| **Multi Device** |[✔️](https://github.com/Fangzbotz2007) |
+| **Fast Respon** |[✔️](https://github.com/fitrawahyudi2004) |
+| **No Internet** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Simple** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Button template** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Multi Device** |[✔️](https://github.com/fitrawahyudi2004) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Fangzbotz2007) |
-| **Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game Rpg** |[✔️](https://github.com/Fangzbotz2007) |
-| **Nsfw** |[✔️](https://github.com/Fangzbotz2007) |
-| **Sticker** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game** |[✔️](https://github.com/Fangzbotz2007) |
-| **Kerang Ajaib** |[✔️](https://github.com/Fangzbotz2007) |
-| **Quotes** |[✔️](https://github.com/Fangzbotz2007) |
-| **Anime** |[✔️](https://github.com/Fangzbotz2007) |
-| **Premium** |[✔️](https://github.com/Fangzbotz2007) |
-| **Tools** |[✔️](https://github.com/Fangzbotz2007) |
-| **Exec** |[✔️](https://github.com/Fangzbotz2007) |
-| **React** |[✔️](https://github.com/Fangzbotz2007) |
+| **Downloader** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Internet** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Game Rpg** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Nsfw** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Sticker** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Game** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Kerang Ajaib** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Quotes** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Anime** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Premium** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Tools** |[✔️](https://github.com/fitrawahyudi2004) |
+| **Exec** |[✔️](https://github.com/fitrawahyudi2004) |
+| **React** |[✔️](https://github.com/fitrawahyudi2004) |
 ---------
 
 ## `SETTING`
@@ -129,14 +117,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & FANGZ BOT-MD]
+[ INSTALLING NODEJS & INGRAM BOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/fitrawahyudi2004/ingrambotzwa
+cd ingrambotzwa
 npm install
 npm update
 ```
@@ -151,8 +139,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/fitrawahyudi2004/ingrambotzwa
+cd ingramzbotwa
 npm install
 npm update
 ```
@@ -236,27 +224,20 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 2. Sebelum pakai jangan lupa kasih star
 3. Follow Github !
 4. Jangan salah gunakan script ini!
-5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Fangz
 
 ---------
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Fangzbotz2007)
-* [`My parents`](https://github.com/Fangzbotz2007)
-* [`All Friends`](https://github.com/Fangzbotz2007)
-* [`All Contributors`](https://github.com/Fangzbotz2007)
-* [`All Creator Bot`](https://github.com/Fangzbotz2007)
+* [`Allah SWT`](https://github.com/fitrawahyudi2004)
+* [`My parents`](https://github.com/fitrawahyudi2004)
+* [`All Friends`](https://github.com/fitrawahyudi2004)
+* [`All Contributors`](https://github.com/fitrawahyudi2004)
+* [`All Creator Bot`](https://github.com/fitrawahyudi2004)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
+
 
 ## ```Recode By 💌```
-[![Fangz BOT](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/Fangzbotz2007)
+[![Fangz BOT](https://i.postimg.cc/3r2ZvZh4/atas.jpg?size=100)](https://github.com/fitrawahyudi2004)
 
-## ```Contributor 📣```
-* [`The.Sad.Boy01`](https://github.com/Kangsad01)
-* [`AmirulDev20`](https://github.com/amiruldev20)
-* [`Rasel Comel`](https://github.com/raselcomel)
-* [`Rominaru`](https://github.com/rominaru)
+
